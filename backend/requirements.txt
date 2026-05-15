@@ -1,1 +1,4 @@
 # Add your project dependencies here
+flask
+deep-translator
+langdetect
